@@ -40,11 +40,11 @@ Sistema web centralizado para la automatización de los flujos de **inventario y
 
 ## Artefactos por Carpeta
 
-### [01 — Gestión del Proyecto](./01-gestion-proyecto/)
+### [01 — Gestión del Proyecto](./01_Gestion_Proyecto/)
 
 | Artefacto | Descripción |
 |---|---|
-| [Entregable 01 — Gestión del Proyecto](./01-gestion-proyecto/01_Gestion_Proyecto_v2.docx) | Acta de Constitución, Objetivos SMART, Alcance, Cronograma, Stakeholders y Plan de Gestión |
+| [Entregable 01 — Gestión del Proyecto](./01_Gestion_Proyecto/01_Gestion_Proyecto.docx) | Acta de Constitución, Objetivos SMART, Alcance, Cronograma, Stakeholders y Plan de Gestión |
 
 **Contenido:**
 - Acta de Constitución del Proyecto (Project Charter) con firmas de aprobación

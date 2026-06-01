@@ -40,11 +40,11 @@ Sistema web centralizado para la automatización de los flujos de **inventario y
 
 ## Artefactos por Carpeta
 
-### [01 — Gestión del Proyecto](./01_Gestion_Proyecto/)
+### [01 — Gestión del Proyecto](./01-gestion-proyecto/)
 
 | Artefacto | Descripción |
 |---|---|
-| [Entregable 01 — Gestión del Proyecto](./01_Gestion_Proyecto/01_Gestion_Proyecto.docx) | Acta de Constitución, Objetivos SMART, Alcance, Cronograma, Stakeholders y Plan de Gestión |
+| [Entregable 01 — Gestión del Proyecto](./01-gestion-proyecto/01_Gestion_Proyecto.docx) | Acta de Constitución, Objetivos SMART, Alcance, Cronograma, Stakeholders y Plan de Gestión |
 
 **Contenido:**
 - Acta de Constitución del Proyecto (Project Charter) con firmas de aprobación
@@ -60,7 +60,7 @@ Sistema web centralizado para la automatización de los flujos de **inventario y
 
 | Artefacto | Descripción |
 |---|---|
-| [Entregable 02 — Requerimientos y Casos de Uso](./02-requerimientos/02_Requerimientos_y_Casos_Uso_v2.docx) | RF, RNF, Casos de Uso, Historias de Usuario y Matriz de Trazabilidad |
+| [Entregable 02 — Requerimientos y Casos de Uso](./02-requerimientos/02_Requerimientos_y_Casos_Uso.docx) | RF, RNF, Casos de Uso, Historias de Usuario y Matriz de Trazabilidad |
 
 **Contenido:**
 - 7 Requerimientos Funcionales (RF-01 a RF-07) con ID, prioridad, actor y criterio de aceptación
@@ -75,7 +75,7 @@ Sistema web centralizado para la automatización de los flujos de **inventario y
 
 | Artefacto | Descripción |
 |---|---|
-| [Entregable 03 — Arquitectura C4 y ADR](./03-arquitectura/03_Arquitectura_C4_y_ADR_v2.docx) | Flujos de proceso, Modelo C4, Esquema BD y Decisiones Técnicas |
+| [Entregable 03 — Arquitectura C4 y ADR](./03-arquitectura/03_Arquitectura_C4_y_ADR.docx) | Flujos de proceso, Modelo C4, Esquema BD y Decisiones Técnicas |
 
 **Contenido:**
 - Diagrama de Flujo **As-Is** (proceso manual actual con puntos críticos)
@@ -92,7 +92,7 @@ Sistema web centralizado para la automatización de los flujos de **inventario y
 
 | Artefacto | Descripción |
 |---|---|
-| [Entregable 04 — Gestión de Riesgos](./04-riesgos/04_Riesgos_v2.docx) | Matriz de Riesgos, Mapa de Calor y Registro de Seguimiento |
+| [Entregable 04 — Gestión de Riesgos](./04-riesgos/04_Riesgos.docx) | Matriz de Riesgos, Mapa de Calor y Registro de Seguimiento |
 
 **Contenido:**
 - 6 Riesgos identificados (R01–R06) con probabilidad, impacto, nivel (PxI) y plan de mitigación
@@ -106,7 +106,7 @@ Sistema web centralizado para la automatización de los flujos de **inventario y
 
 | Artefacto | Descripción |
 |---|---|
-| [Entregable 05 — Aseguramiento de Calidad](./05-calidad/05_Calidad_v2.docx) | Plan SQA, Criterios de Aceptación, Pruebas, Checklist y Lecciones Aprendidas |
+| [Entregable 05 — Aseguramiento de Calidad](./05-calidad/05_Calidad.docx) | Plan SQA, Criterios de Aceptación, Pruebas, Checklist y Lecciones Aprendidas |
 
 **Contenido:**
 - Plan de Aseguramiento de Calidad (SQA) con roles y responsabilidades
@@ -122,7 +122,7 @@ Sistema web centralizado para la automatización de los flujos de **inventario y
 
 | Artefacto | Descripción |
 |---|---|
-| [Presentación Final](./presentacion/PPP.pdf) | Slides de sustentación en formato PDF |
+| [Presentación Final](./presentacion/Presentacion_Final.pptx) | Slides de sustentación en formato PDF |
 
 **Contenido de la presentación:**
 - Portada: nombre del proyecto, integrantes y grupo
